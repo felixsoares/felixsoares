@@ -11,7 +11,7 @@
 
 - 🇧🇷 I'm from **Brazil**
 - 📱 Senior Android Mobile Developer
-- :technologist: Currently working at **@Globo**
+- :technologist: Currently working at **@Globoi**
 - 🥪 Eat 💻 Code 💪🏽 Train ♻️ Repeat
 
 ## <img src="https://media.tenor.com/KNZuGWgvOfQAAAAi/error-404.gif" width="30"> Some of the technologies I have worked with
